@@ -1,0 +1,5 @@
+name=input("Please input your name:")
+print("=== Test two number add ===")
+x=input("Please input x=")
+y=input("Please input y=")
+print(name,"x+y=",x+y)
